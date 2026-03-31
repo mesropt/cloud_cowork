@@ -1,0 +1,19 @@
+Architecture Review Meeting
+Date: 2026-03-25
+Attendees: Mesrop, Armen, Sara
+
+Topics Discussed:
+1. Migration from monolith to microservices
+   - Decision: Start with auth service
+   - Owner: Mesrop
+   - Deadline: Q2 2026
+
+2. Database sharding strategy
+   - Concern: Read replicas not enough for current load
+   - Action: Benchmark PostgreSQL vs Aurora
+
+3. CI/CD pipeline improvements
+   - Add integration tests before staging deploy
+   - Estimated effort: 3 days
+
+Next meeting: 2026-04-08

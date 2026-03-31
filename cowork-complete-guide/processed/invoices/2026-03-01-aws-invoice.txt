@@ -1,0 +1,16 @@
+Amazon Web Services
+Invoice #AWS-2026-03-7821
+
+Bill To: Mesrop T.
+Date: 2026-03-01
+
+Services:
+  EC2 t3.micro (720 hrs)     $8.47
+  S3 Storage (12 GB)         $0.28
+  CloudWatch Logs            $1.15
+---------------------------------
+Subtotal:                    $9.90
+Tax:                         $0.00
+Total Due:                   $9.90
+
+Due Date: 2026-04-01

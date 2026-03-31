@@ -1,0 +1,21 @@
+FREELANCE SERVICE AGREEMENT
+
+Client: TechStartup LLC
+Contractor: Mesrop T.
+Date: 2026-03-20
+
+Scope of Work:
+Design and implement a REST API for user authentication module.
+Technologies: Python, FastAPI, PostgreSQL, JWT
+
+Payment Terms:
+- Rate: $45/hour
+- Estimated hours: 40
+- Total estimated: $1,800
+- Payment: 50% upfront, 50% on delivery
+
+Timeline: 3 weeks from contract signing
+
+Signatures:
+Client: _____________
+Contractor: _____________

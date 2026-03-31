@@ -1,0 +1,11 @@
+[Screenshot captured: 2026-03-30 14:22:07]
+Source: Production monitoring dashboard
+
+ERROR LOG EXCERPT:
+NullPointerException in UserService.java:147
+  at com.app.service.UserService.getProfile(UserService.java:147)
+  at com.app.controller.UserController.profile(UserController.java:89)
+
+Frequency: 23 occurrences in last hour
+Affected users: ~12%
+Status: Under investigation
